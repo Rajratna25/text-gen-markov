@@ -14,7 +14,8 @@
 
 Click below to launch the notebook in Google Colab:
 
-[![Open In Colab]](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rajratna25/text-gen-markov/blob/main/Text%20Generation%20with%20Markov%20Chains.ipynb)](https://colab.research.google.com/drive/1_IQVZ9A89d2HcpuZQ2-f47swaNzMq6As#scrollTo=9ReSvSmepbjA)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rajratna25/text-gen-markov/blob/main/Text%20Generation%20with%20Markov%20Chains.ipynb)
+
 
 ---
 
